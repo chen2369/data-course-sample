@@ -8,8 +8,8 @@
 	- 清楚記載這個專案的目的和結果，最後的推薦分數是多少，是否有成功
  	- 簡明清楚的使用說明：用了哪些工具和方法？為什麼？
 - 兩支連結：包含 colab code、github code。
- 	- [colab code][https://colab.research.google.com/drive/1gP-B6XPPVbcmDPjNVNBuY0PLAKRwNKUY?usp=sharing]
- 	- [Github code][https://github.com/chen2369/data-course-sample]
+ 	- [colab code](https://colab.research.google.com/drive/1gP-B6XPPVbcmDPjNVNBuY0PLAKRwNKUY?usp=sharing)
+ 	- [Github code](https://github.com/chen2369/data-course-sample)
 
 ## 專案目的
 
@@ -125,6 +125,14 @@
 | 180 | 0.083051 | 0.083051 | 0.083051 | 0.091525 | 0.105085 |
 | 360 | 0.083051 | 0.083051 | 0.083051 | 0.091525 | 0.105085 |
 | 720 | 0.083051 | 0.083051 | 0.083051 | 0.091525 | 0.105085 |
+
+## 總結
+
+- 在預設k=10時，考慮用戶過去資料的方法一能有16%的好表現。
+- 在k在10至50之間，最熱賣商品最佳表現為在k=50時的31%推薦準度，比考慮用戶過去資料的方法一最好的26%高5%左右。
+- 參數比例等再調整可能可以讓表現再提升一些。
+- 不過我認為主要問題在於測試資料590筆中，共有584名用戶，但只有38名曾經出現在訓練資料中，因此考慮用戶過去資料的作法其實主要只作用在這38名用戶身上，若是出現的比例更高，則考慮用戶過去資料的方法一應該能夠有更好的表現。
+- 這個資料也顯示在此電商平台中，用戶快速增加的情形，持續有新進用戶不斷加入。
 
 ## 使用工具
 
