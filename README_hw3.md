@@ -9,9 +9,9 @@
  	- 簡明清楚的使用說明：用了哪些工具和方法？為什麼？
 - 兩支連結：包含 colab code、github code。
  	- Colab code
-    - [User-based](https://colab.research.google.com/drive/1c8y0G-Nd_517QzFbRklvcp5DHWsHuDk8?usp=sharing)
-    - [Item-based](https://colab.research.google.com/drive/1wjjCJEZ3f7H87egQ9_Ob2OwFmM23q0Pu?usp=sharing)
-    - [Surprise套件](https://colab.research.google.com/drive/1tw_Mcrvj2xFnvuYYjf2gWezY1cM7RYBd?usp=sharing)
+		- [User-based](https://colab.research.google.com/drive/1c8y0G-Nd_517QzFbRklvcp5DHWsHuDk8?usp=sharing)
+		- [Item-based](https://colab.research.google.com/drive/1wjjCJEZ3f7H87egQ9_Ob2OwFmM23q0Pu?usp=sharing)
+		- [Surprise套件](https://colab.research.google.com/drive/1tw_Mcrvj2xFnvuYYjf2gWezY1cM7RYBd?usp=sharing)
  	- [Github code](https://github.com/chen2369/data-course-sample)
 
 ## 專案目的
