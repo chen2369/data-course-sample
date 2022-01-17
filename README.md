@@ -7,18 +7,18 @@
 
 ### 實作「Rule-Based」的推薦系統
 
-[Readme](https://github.com/chen2369/data-course-sample/blob/main/README_hw1.md)
-[Code](https://colab.research.google.com/drive/1gP-B6XPPVbcmDPjNVNBuY0PLAKRwNKUY?usp=sharing)
+- [Readme](https://github.com/chen2369/data-course-sample/blob/main/README_hw1.md)
+- [Code](https://colab.research.google.com/drive/1gP-B6XPPVbcmDPjNVNBuY0PLAKRwNKUY?usp=sharing)
 
 ### 實作「Content-Based」的推薦系統
 
-[Readme](https://github.com/chen2369/data-course-sample/blob/main/README_hw2.md)
-[Code](https://colab.research.google.com/drive/1BQbp7WVp10GIXn9nt82xVXcDiHlFQqMH?usp=sharing)
+- [Readme](https://github.com/chen2369/data-course-sample/blob/main/README_hw2.md)
+- [Code](https://colab.research.google.com/drive/1BQbp7WVp10GIXn9nt82xVXcDiHlFQqMH?usp=sharing)
 
 ### 實作「Collaborative Filtering」的推薦系統
 
-[Readme](https://github.com/chen2369/data-course-sample/blob/main/README_hw3.md)
-[Code](https://colab.research.google.com/drive/1NGTXuwxneIBzxnkPHAOm4udT2RnnpGh3?usp=sharing)
+- [Readme](https://github.com/chen2369/data-course-sample/blob/main/README_hw3.md)
+- [Code](https://colab.research.google.com/drive/1NGTXuwxneIBzxnkPHAOm4udT2RnnpGh3?usp=sharing)
 
 ## 資料集
 
