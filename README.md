@@ -1,5 +1,7 @@
 # 推薦系統實作
 
+- [結業心得](https://github.com/chen2369/data-course-sample/blob/main/%E7%B5%90%E6%A5%AD%E9%83%A8%E8%90%BD%E6%A0%BC.md)
+
 ## 專案目的
 
 - 將美妝類電商所擁有的資料集（包含評論資訊、商品後設資料）進行分析，以過去資料來推薦使用者會購買的商品。
